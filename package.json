@@ -1,0 +1,19 @@
+{
+  "name": "kwanso-cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tayyabsaleem7756/kwanso-cucumber.git"
+  },
+  "author": "tayyab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tayyabsaleem7756/kwanso-cucumber/issues"
+  },
+  "homepage": "https://github.com/tayyabsaleem7756/kwanso-cucumber#readme"
+}
